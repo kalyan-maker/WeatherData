@@ -10,4 +10,3 @@
 // receiving function here
 //use again xml http request for the open weather map 
 //print country name as well as temp in console
-
