@@ -22,5 +22,3 @@ var request = new XMLHttpRequest();
 
 //print country name as well as temp in console
 
-
-
